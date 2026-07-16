@@ -34,6 +34,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0977-squares-of-a-sorted-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1480-running-sum-of-1d-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,4 +170,5 @@ Java solutions to DSA problems from LeetCode and CodeChef
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0713-subarray-product-less-than-k) |
+| [1480-running-sum-of-1d-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
