@@ -21,6 +21,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0169-majority-element](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0012-integer-to-roman](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -80,6 +82,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0015-3sum](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
