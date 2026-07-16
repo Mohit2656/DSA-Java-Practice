@@ -14,6 +14,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,4 +60,8 @@ Java solutions to DSA problems from LeetCode and CodeChef
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0015-3sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
