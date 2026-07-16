@@ -28,6 +28,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0012-integer-to-roman) |
+| [0125-valid-palindrome](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -50,6 +51,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0011-container-with-most-water](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
