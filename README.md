@@ -16,6 +16,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0035-search-insert-position](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,4 +67,5 @@ Java solutions to DSA problems from LeetCode and CodeChef
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
