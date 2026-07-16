@@ -31,6 +31,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0704-binary-search](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0875-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +98,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0344-reverse-string](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -119,6 +121,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0268-missing-number](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
