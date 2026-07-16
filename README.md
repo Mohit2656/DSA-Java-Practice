@@ -23,6 +23,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0217-contains-duplicate](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -55,6 +57,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -81,6 +84,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0012-integer-to-roman](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -89,6 +93,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,4 +119,8 @@ Java solutions to DSA problems from LeetCode and CodeChef
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
