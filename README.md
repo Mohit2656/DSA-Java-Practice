@@ -30,6 +30,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0643-maximum-average-subarray-i](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0349-intersection-of-two-arrays](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
