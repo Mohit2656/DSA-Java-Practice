@@ -32,6 +32,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0713-subarray-product-less-than-k](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0704-binary-search](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Divide and Conquer
 |  |
 | ------- |
