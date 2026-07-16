@@ -13,6 +13,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
