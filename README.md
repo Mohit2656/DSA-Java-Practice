@@ -33,6 +33,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0205-isomorphic-strings](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -40,6 +41,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0012-integer-to-roman](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -86,6 +88,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0169-majority-element](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
