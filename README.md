@@ -25,6 +25,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0219-contains-duplicate-ii](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0242-valid-anagram](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -69,6 +71,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0053-maximum-subarray](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +103,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0217-contains-duplicate](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,6 +113,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -121,12 +126,18 @@ Java solutions to DSA problems from LeetCode and CodeChef
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0268-missing-number) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
