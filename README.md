@@ -33,6 +33,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0875-koko-eating-bananas](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0066-plus-one](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0268-missing-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Sorting
 |  |
 | ------- |
