@@ -36,6 +36,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,4 +177,8 @@ Java solutions to DSA problems from LeetCode and CodeChef
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/1672-richest-customer-wealth) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
