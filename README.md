@@ -27,12 +27,14 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0205-isomorphic-strings) |
 ## Sliding Window
 |  |
 | ------- |
