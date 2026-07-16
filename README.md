@@ -37,6 +37,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [1480-running-sum-of-1d-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0290-word-pattern](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0344-reverse-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -181,4 +183,5 @@ Java solutions to DSA problems from LeetCode and CodeChef
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
