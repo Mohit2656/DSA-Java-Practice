@@ -96,6 +96,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0283-move-zeroes](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -132,6 +133,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
