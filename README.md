@@ -19,6 +19,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
@@ -67,6 +69,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | ------- |
 | [0012-integer-to-roman](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
