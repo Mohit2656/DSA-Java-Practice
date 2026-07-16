@@ -24,6 +24,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0217-contains-duplicate](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0125-valid-palindrome](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
