@@ -38,6 +38,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [1672-richest-customer-wealth](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3583-count-special-triplets](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/3583-count-special-triplets) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0290-word-pattern](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [3583-count-special-triplets](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/3583-count-special-triplets) |
 ## String
 |  |
 | ------- |
@@ -143,6 +145,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | ------- |
 | [0169-majority-element](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0347-top-k-frequent-elements) |
+| [3583-count-special-triplets](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/3583-count-special-triplets) |
 ## Linked List
 |  |
 | ------- |
