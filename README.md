@@ -28,6 +28,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0347-top-k-frequent-elements](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
