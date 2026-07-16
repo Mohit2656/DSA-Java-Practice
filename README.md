@@ -59,6 +59,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0242-valid-anagram](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0344-reverse-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
 |  |
 | ------- |
@@ -66,6 +67,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0219-contains-duplicate-ii](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0713-subarray-product-less-than-k) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
 |  |
 | ------- |
