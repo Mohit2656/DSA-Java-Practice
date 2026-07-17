@@ -7,6 +7,9 @@ class Solution {
             fast=fast.next.next;
             slow=slow.next;
         }
+        if(fast != null){
+    slow = slow.next;
+}
         mid=slow;
         ListNode current=mid;
         ListNode prev=null;
