@@ -108,6 +108,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0141-linked-list-cycle](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -153,11 +154,13 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0234-palindrome-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -190,4 +193,8 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
