@@ -45,6 +45,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0001-two-sum](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0012-integer-to-roman) |
+| [0141-linked-list-cycle](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0217-contains-duplicate) |
@@ -104,6 +105,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 | [0015-3sum](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0283-move-zeroes) |
@@ -149,6 +151,7 @@ Java solutions to DSA problems from LeetCode and CodeChef
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Mohit2656/DSA-Java-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
